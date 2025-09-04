@@ -26,7 +26,14 @@ After completing this lab, write a few sentences about:
 - How do you plan to expand this portfolio?
 
 [Write your reflection here]
+What was the most challenging part?
+The most challenging part was getting the CSS file to work properly because, at first, I had the wrong file path.  
 
+What did you learn about semantic HTML?
+I learned that semantic HTML makes the structure of a webpage more meaningful by using tags like header, main, and footer. This improves readability for developers and also supports accessibility.
+
+How do you plan to expand this portfolio?
+I plan to expand the portfolio by adding CSS styling for an overall better layout, so the site looks better. I also want to include more detailed project pages, images, and interaction.
 ---
 
 *This portfolio will grow throughout the semester as you add React components and full-stack projects!*
